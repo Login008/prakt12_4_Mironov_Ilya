@@ -1,0 +1,17 @@
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\bin\Debug\net6.0-windows\prakt11_3.0.exe
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\bin\Debug\net6.0-windows\prakt11_3.0.deps.json
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\bin\Debug\net6.0-windows\prakt11_3.0.runtimeconfig.json
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\bin\Debug\net6.0-windows\prakt11_3.0.dll
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\bin\Debug\net6.0-windows\prakt11_3.0.pdb
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.csproj.AssemblyReference.cache
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3._0.Form1.resources
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.csproj.GenerateResource.cache
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.AssemblyInfoInputs.cache
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.AssemblyInfo.cs
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.csproj.CoreCompileInputs.cache
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.dll
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\refint\prakt11_3.0.dll
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.pdb
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\prakt11_3.0.genruntimeconfig.cache
+C:\Users\st325l08\Desktop\Миронов ПР-21\prakt11_3.0\obj\Debug\net6.0-windows\ref\prakt11_3.0.dll
